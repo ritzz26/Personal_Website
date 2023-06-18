@@ -3,7 +3,7 @@ import {Button, Navbar} from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 import "./home.css";
 
-export default function About() {
+export default function Portfolio() {
     const navigate = useNavigate();
     return(
         <>
